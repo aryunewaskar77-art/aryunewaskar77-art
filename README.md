@@ -1,6 +1,6 @@
 # 💫 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%20Profile&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=70" />
 </p>
 
 ## 🧑‍💻 Who Am I?
@@ -46,11 +46,15 @@ const user = {
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/[your-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-username]" height="30" width="40" /></a>
-<a href="https://twitter.com/[your-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="[your-username]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[your-username]" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/[your-username]" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryunewaskar77-art&show_icons=true&theme=radical" />
 </p>
