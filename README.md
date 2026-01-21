@@ -1,6 +1,6 @@
 # 💫 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" alt="Header Image" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Building+and+Learning;Software+Developer+In+Progress" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 Who Am I?
