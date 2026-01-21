@@ -1,6 +1,6 @@
 # 💫 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" alt="Header Image" />
 </p>
 
 ## 🧑‍💻 Who Am I?
