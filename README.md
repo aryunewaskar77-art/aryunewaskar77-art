@@ -6,12 +6,12 @@
 ## 🧑‍💻 Who Am I?
 ```javascript
 const user = {
-  name: "[Your Name]",
-  role: "[Your Role / Student / Developer]",
-  location: "[Your Location]",
-  learning: ["[Topic 1]", "[Topic 2]", "[Topic 3]"],
-  passion: "Building things that matter",
-  motto: "Learn in public, build in private, share with everyone"
+  name: "Aaryaa Newaskar",
+  education: "@Vedam School of Technology",
+  learning: ["JavaScript","Advanced DSA","MySQL","Go"],
+  approach: "Practice. Fail. Learn. Improve. Succeed", 
+  passion: "Crafting impactful solutions through clean, scalable code",
+  motto: "Stay curious, stay humble, and build something extraordinary every day"
 };
 ```
 
@@ -19,14 +19,16 @@ const user = {
 
 | 🏗️ Building | 🧠 Mastering |
 | :--- | :--- |
-| • [Project 1 Name] | • [Skill/Concept 1] |
-| • [Project 2 Name] | • [Skill/Concept 2] |
-| • [Project 3 Name] | • [Skill/Concept 3] |
+| • Build Flame Game Website                     | • Improve skills in HTML, CSS and Basic JavaScript |
+| • Restaurant Order Management System           | • JavaScript & DOM Manipulation                    |
+| • Google Classroom UI Advanced Version         | • UI Logic, Data Flow & Debugging                  |
+| • Consistent LeetCode Practice (100+ Problems) | • Learning Through Failure → Improvement           |
 
 ### 📈 Daily Grind:
 - [ ] Coding challenge / LeetCode
 - [ ] Open source contributions
 - [ ] Learning new tech stacks
+- [ ] Try new prrojects for practice
 
 ## 🛠 Technology Stack
 
@@ -42,7 +44,7 @@ const user = {
 
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📫 Connect with Me
 <p align="left">
