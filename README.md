@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Building+and+Learning;Software+Developer+In+Progress" alt="Typing SVG" />
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/aaryaa-newaskar" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aryu.newaskar77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+</a>
+</p>
+
 ---
 
 ## 🧑‍💻 Who Am I?
@@ -83,12 +92,5 @@ $ skills --list
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-## 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/aaryaa-newaskar" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
 
